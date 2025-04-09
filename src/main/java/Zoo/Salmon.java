@@ -18,7 +18,6 @@ public class Salmon extends fishAbstractClass{
 
         fish1.introduction();
         fish2.introduction();
-        System.out.println("A");
 
         System.out.println("The number of total fish added: " + numberOfFish());
         System.out.println("The number of Salmon fish added: " + salmonFishCounter);
