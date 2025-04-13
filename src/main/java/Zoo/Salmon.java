@@ -1,5 +1,7 @@
 package Zoo;
 
+import java.io.*;
+
 public class Salmon extends fishAbstractClass{
 
     public static int salmonFishCounter = 0;
